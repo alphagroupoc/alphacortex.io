@@ -289,8 +289,8 @@
         if (typedEl) {
             new Typed(typedEl, {
                 strings: [
-                    '<span class="highlight">Software</span> Dev',
                     '<span class="highlight">WebApp</span> Dev',
+                    '<span class="highlight">Software</span> Dev',
                     '<span class="highlight">Database</span> Mgt',
                     '<span class="highlight">Website</span> Dev',
                 ],
